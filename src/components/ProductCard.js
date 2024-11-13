@@ -27,7 +27,7 @@ const ProductCard = ({ title, price, imgSrc, countdown, detailsUrl }) => {
           <div className="button-group">
             <a href={detailsUrl} className="btn btn-sm btn-border">
               <img src="assets/img/icons/judge-icon.svg" alt="" className="svg" />
-              Place Bid
+              $WoS NFTs
             </a>
           </div>
         </div>

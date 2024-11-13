@@ -11,7 +11,7 @@ export default function Bannersec(){
         <div class="row">
           <div class="col-lg-1">
             <div class="banner-content text-white mb-5 mb-lg-0">
-              <h2 class="stroke-text">$WOS</h2>
+              <h2 class="stroke-text">$WoS</h2>
               <h1>Expose Scammers, Reward Community</h1>
               <a href="create.html" class="btn"
                 ><img src="assets/img/icons/discover.svg" alt="" class="svg" />

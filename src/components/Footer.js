@@ -50,7 +50,7 @@ export default function Footer(){
                   class="footer-logo"
                 />
                 <p>
-                  The anefty first large digital marketplace crypto
+                  The Wall of Shame first large digital marketplace crypto
                   collectibles & non fungible token buy sell & discover
                   digital assets.
                 </p>

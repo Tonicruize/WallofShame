@@ -50,7 +50,7 @@ const Tokenomics = () => {
                     alt=""
                     class="svg"
                   />
-                  Buy Now</a
+                  Claim</a
                 >
                 <a href="item-details.html" class="btn btn-sm"
                   ><img
@@ -58,7 +58,7 @@ const Tokenomics = () => {
                     alt=""
                     class="svg"
                   />
-                  Place Bid</a
+                  $WoS NFTs</a
                 >
               </div>
         
@@ -82,15 +82,15 @@ const Tokenomics = () => {
                 <div class="tab-pane fade show active" id="info">
                   <ul class="info-list">
                     <li>
-                      <h6>NFTs ID</h6>
+                      <h6>NFT Contract Address</h6>
                       <h3>690563</h3>
                     </li>
                     <li>
-                      <h6>Mint Transactions</h6>
+                      <h6>Token COntract Address</h6>
                       <h3>69b9ebde0178k7O7&export</h3>
                     </li>
                     <li>
-                      <h6>Contact Address</h6>
+                      <h6>Total Supply</h6>
                       <h3>kɒngtækt əˈdrɛs</h3>
                     </li>
                   </ul>

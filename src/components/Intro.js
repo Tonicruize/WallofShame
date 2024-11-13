@@ -17,19 +17,19 @@ export default function Intro(){
                     <h4>
                       <span class="counter">3</span>k<span class="c1">+</span>
                     </h4>
-                    <h6>Artwork</h6>
+                    <h6>NFTs</h6>
                   </li>
                   <li>
                     <h4>
                       <span class="counter">9</span>k<span class="c1">+</span>
                     </h4>
-                    <h6>Auction</h6>
+                    <h6>Culprits</h6>
                   </li>
                   <li>
                     <h4>
                       <span class="counter">6</span>k<span class="c1">+</span>
                     </h4>
-                    <h6>Artist</h6>
+                    <h6>Submissions</h6>
                   </li>
                 </ul>
                 <div class="button-group">
@@ -46,7 +46,7 @@ export default function Intro(){
                       alt=""
                       class="svg"
                     />
-                    Create NFT</a
+                    Add to Wall</a
                   >
                 </div>
               </div>
@@ -55,17 +55,17 @@ export default function Intro(){
               <div class="banner-img mb-60 mb-lg-0">
                 <img src="assets/img/media/banner-img.png" alt="" />
                 <div class="banner-img-content">
-                  <h2>Do a Portrait Painting Artwork!</h2>
+                  <h2>Use the wall for a CLeaner Community!</h2>
                   <ul class="list-info text-white style--two">
                     <li>
-                      <h5>Current Bid</h5>
+                      <h5>Unclaimed NFTs</h5>
                       <h4 class="mb-0">
                         <img src="assets/img/icons/eth.svg" alt="" class="svg" />
-                        03.66 ETH
+                        50
                       </h4>
                     </li>
                     <li>
-                      <h5>Auction Ending In</h5>
+                      <h5>1st Batch Ending In</h5>
                       <div class="countdown-wrap">
                         <img src="assets/img/icons/time.svg" alt="" class="svg" />
                         <ul class="countdown">
@@ -136,7 +136,7 @@ export default function Intro(){
                         alt=""
                         class="svg"
                       />
-                      Place Bid</a
+                      $WoS NFTs</a
                     >
                   </div>
                 </div>

@@ -8,7 +8,7 @@ const Liveauctions = () => {
         <div class="row justify-content-center">
           <div class="col-lg-7">
             <div class="section-title text-white text-center">
-              <h2>Live Auctions</h2>
+              <h2>Latest NFTs</h2>
               <p>
                 NFTs are non-fungible tokens. They are unique items that you
                 can't replace with something else. for trading card is an NFT –
